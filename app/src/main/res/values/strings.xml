@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ListOfList</string>
+    <string-array name="Flowers">
+        <item>Rose</item>
+        <item>Lotus</item>
+        <item>Lily</item>
+    </string-array>
+    <string-array name="Rose">
+        <item>Rosa Peace</item>
+        <item>Beach Rose</item>
+        <item>Damask Rose</item>
+    </string-array>
+    <string-array name="Lotus">
+        <item>American Lotus</item>
+        <item>Angel Wings</item>
+        <item>Blue Star Lotus</item>
+    </string-array>
+    <string-array name="Lily">
+        <item>Easter Lily</item>
+        <item>Tiger Lily</item>
+        <item>Orange Lily</item>
+    </string-array>
+</resources>
